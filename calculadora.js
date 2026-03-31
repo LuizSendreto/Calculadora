@@ -1,0 +1,7 @@
+function appendToDisplay() {
+
+}
+
+function calcular(){
+    
+}
